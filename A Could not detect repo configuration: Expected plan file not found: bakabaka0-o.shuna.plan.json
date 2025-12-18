@@ -1,0 +1,6 @@
+{
+  "project": "discord-dashboard-backend",
+  "type": "node",
+  "start": "node server.js",
+  "build": "npm install"
+}
